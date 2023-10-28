@@ -6,7 +6,7 @@ print(last_name)
 funky_name=name[0:9:2]  # the first "0" is starting point the
                         # second "9" is the end point
                         # the third is the steps of letter
-a=name[::2] # space is not counted   :: refere from 0 to the very end of the string
+a=name[::2] # space is not counted   :: refers from 0 to the very end of the string
 print(funky_name)
 print(a)
 reverse_name = name[::-1]
