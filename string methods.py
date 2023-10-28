@@ -6,6 +6,6 @@ print(name.upper())
 print(name.lower())
 print(name.isdigit()) #it returns boolean it checks weather the variable caries digit
 print(name.isalpha())#it returns boolean it checks weather the variable caries alphabet
-print(name.count)
+print(name.count("a"))
 print(name.replace("a","e")) #not case sensitive
 print(name*5)
