@@ -1,4 +1,5 @@
 #tuples contain  ordered and unchangeable data
+#you can use duplicate data
 student = ("Aman", "21", "male")
 
 print(student.count("Aman"))
