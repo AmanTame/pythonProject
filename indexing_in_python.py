@@ -5,5 +5,5 @@ firstname = name[:4].upper()
 print(firstname)
 lastname = name[5:].lower()
 print(lastname)
-last_charachter = name[-1]
-print(last_charachter)
+last_character = name[-1]
+print(last_character)
