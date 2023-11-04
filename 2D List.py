@@ -6,4 +6,4 @@ desert = ["cake", "fruit", "icecream"]
 
 food = [drinks, dinner, desert]
 
-print(food[1][1])
+print(food[1][2])
