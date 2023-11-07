@@ -10,6 +10,6 @@ else:
     print('You loose!')
 print('Computer', computer)
 print('Player', player)
-result=input('Do u want to continue..yes/no')
+
 
 
