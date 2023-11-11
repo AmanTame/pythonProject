@@ -11,5 +11,6 @@ else:
 print('Computer', computer)
 print('Player', player)
 
+play_again = input('Do you want to play again?')
 
 
