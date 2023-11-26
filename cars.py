@@ -1,6 +1,7 @@
 class Car:
+    wheel = 2
     def __init__(self,mk,md,yr,cl):
-        self.make = mk
+        self.make = mk  # instance variabls
         self.model = md
         self.year = yr
         self.color = cl
